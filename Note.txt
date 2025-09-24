@@ -1,0 +1,2 @@
+use next.js tech and get rid of ./dist
+Admin dashboard (all registered contact)

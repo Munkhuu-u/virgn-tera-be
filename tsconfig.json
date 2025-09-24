@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "./dist",
+    "outDir": "./dist", //ene ni yg yaagaad ch baigaan
     "module": "commonjs",
     "target": "es6",
     "esModuleInterop": true
